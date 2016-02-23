@@ -158,7 +158,7 @@ void SetColor(void){
     }
   }
 }
-//------------Powerup_DrawPowerups------------
+//------------ClearLEDs------------
 // This function clears all the LEDs and updates them accordingly
 // Input: none
 // Putput: none
