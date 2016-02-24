@@ -4,10 +4,10 @@ Creating a bike wheel display using a rotating LED strip.
 ##Components
 
 ####Hardware
-- Arduino nano
+- Arduino Nano
 - ws2812b LED Strip (RGB, Individually Addressable)
 - Reed Switch + Magnet
-- Battery rated for ~2.4A at 5V (2.1A battery has worked OK)
+- 5V Battery (60mA/LED + 200ma should be plenty; 2.1A seems OK while using 17 LEDs)
 
 ####Software
 
